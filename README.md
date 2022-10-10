@@ -1,6 +1,6 @@
 
   <marquee behavior="scroll" direction="left" height="60" scrollamount="5">¡Hola!, Bienvenido a mi Git Hub. Desarrollado especialmente para la materia de: Programación. </marquee>  
-
+<hr>
 
 <center> <p style="font-family:Castellar;">UP210694_CPP</p>
 
@@ -18,9 +18,21 @@
 UP219694   
 ISC03A  
 
+<center> <p style="Magical Story">UP210694_CPP</p> </center>
+
+
+| Cutri Cursando | Salon en que la puedes encontrar | Estado Civil | 
+| -------------- | -------------------------------- | ------------ |
+| Tercer Cuatri  | <center> #304</center>           | Soltera UWU  |
+
+
+<br>
+
+
 <marquee behavior="scroll" bgcolor="#F9A6A6" direction="down" height="60" scrollamount="2"><center><font face=adler color="#000000" size=5><b> Unidades y Ejercicios en C++ </font> </center>
 </marquee> 
 <hr>
+
 
  ## __U1__
  > [Visualizar Unidad 1](https://github.com/UP210694/UP210694_CPP/tree/main/U1)
@@ -31,8 +43,6 @@ ISC03A
 <li>04_Ciclos</li>
 <li>05_Edades</li> 
 </e>
-
-  > [Visualizar Ud 2](https://github.com/UP210694/UP210694_CPP/blob/main/U1/02_ImparPar.cpp)
 
  ## __U1__ 
  > [Visualizar Unidad 2](https://github.com/UP210694/UP210694_CPP/tree/main/U2)
@@ -51,4 +61,6 @@ Para clonar este repositorio, escriba este comando en su consola:
 >       git clone https://github.com/UP210694/UP210694_CPP.git
 
 Puede revisar algunos increíbles README.md aquí: 
-> [Visualizar Readme](https://github.com/matiassingers/awesome-readme)
+> [Visualizar Readme](https://github.com/matiassingers/awesome-readme)  
+
+
