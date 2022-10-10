@@ -2,9 +2,10 @@
   <marquee behavior="scroll" direction="left" height="60" scrollamount="5">¡Hola!, Bienvenido a mi Git Hub. Desarrollado especialmente para la materia de: Programación. </marquee>  
 
 
-<center>UP210694_CPP </center>
+<center> <p style="font-family:Castellar;">UP210694_CPP</p>
 
-# Universidad Polítecnica de Aguascalientes  
+<h1 style="color:Navy"><b> Universidad Polítecnica de Aguascalientes </b></h1>
+</center>
 
 <center>
   
