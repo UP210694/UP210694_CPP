@@ -31,7 +31,9 @@ ISC03A
 <li>04_Ciclos</li>
 <li>05_Edades</li> 
 </e>
-  
+
+  > [Visualizar Ud 2](https://github.com/UP210694/UP210694_CPP/blob/main/U1/02_ImparPar.cpp)
+
  ## __U1__ 
  > [Visualizar Unidad 2](https://github.com/UP210694/UP210694_CPP/tree/main/U2)
 <e1>
