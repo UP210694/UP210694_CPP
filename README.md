@@ -18,12 +18,12 @@
 UP219694   
 ISC03A  
 
-<center> <p style="Magical Story">UP210694_CPP</p> </center>
+<center> <p style="font-family:Castellar;" color= "#EE253D"><b>Más sobre Belén Delgado<b></p> </center>
 
 
 | Cutri Cursando | Salon en que la puedes encontrar | Estado Civil | 
 | -------------- | -------------------------------- | ------------ |
-| Tercer Cuatri  | <center> #304</center>           | Soltera UWU  |
+| Tercer Cuatri  | <center> #304</center>           | Soltera :)  |
 
 
 <br>
