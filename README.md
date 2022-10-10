@@ -19,6 +19,7 @@ ISC03A
 
 <marquee behavior="scroll" bgcolor="#F9A6A6" direction="down" height="60" scrollamount="2"><center><font face=adler color="#000000" size=5><b> Unidades y Ejercicios en C++ </font> </center>
 </marquee> 
+<hr>
 
  ## __U1__
 <e1>
