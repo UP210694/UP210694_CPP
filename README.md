@@ -13,7 +13,7 @@
 </center>
 
 
-## Maria Belen Salazar Delgado 
+## María Belén Salazar Delgado 
 
 UP219694   
 ISC03A  
