@@ -1,0 +1,403 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Yomogi&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Comfortaa&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Otomanopee+One&display=swap" rel="stylesheet">   
+    <title>Blog | Home</title>
+
+
+    <style>
+
+      .navbar{
+        position: fixed;
+        z-index: 1;
+        width: 100%;
+      }
+      .navbar-brand{
+            font-family: 'Otomanopee One', sans-serif;
+        }
+
+       #ciao-head{
+        font-size: 100px;
+        font-family: 'Yomogi', cursive;
+        padding-top: 130px;
+      
+       }
+       .ciao{
+           color: rgb(255, 245, 0);
+          
+       }
+       #introduction{
+        font-family: 'Comfortaa', cursive;
+       }
+      
+       #icons{
+           padding-bottom: 130px;
+       }
+       #section-2{
+           background-color: rgb(255, 245, 0);
+           padding-top: 120px;
+       }
+      /* #section-2-heading{
+           font-size: 100px;
+       }*/
+       @media (max-width: 1900px) {
+        .text {
+               font-size: 120px;
+        }
+        }
+
+        @media (max-width: 1010px) {
+        .text {
+               font-size: 100px;
+        }
+        }
+
+        @media (max-width: 650px) {
+        .text {
+               font-size: 70px;
+        }
+        }
+        @media (min-width: 1900px) {
+        .text {
+               font-size: 150px;
+        }
+        }
+        #section-2-to{
+            color:  rgba(248, 247, 247, 0.479);
+        }
+        #section-2-welcome{
+          font-family: 'Otomanopee One', sans-serif;
+        }
+        
+       #section-2-salsa{
+        font-family: 'Otomanopee One', sans-serif;
+      color: rgb(255, 245, 0);
+      -webkit-text-stroke-width: 2px;
+      -webkit-text-stroke-color: rgba(0, 0, 0, 0.192);
+      
+       }
+       #intro{
+         font-size: 20px;
+         font-family: 'Comfortaa', cursive;
+       }
+       .intro{
+         padding-top: 100px;
+         width: 650px;
+       }
+      
+       @media (max-width: 650px) {
+        .intro {
+               margin-right: 200px;
+               padding-top: 0px;
+               width: 350px;
+        }
+        }
+        #card{
+          border-radius: 10px;
+          box-shadow: 5px 5px 5px rgb(190, 188, 188);
+        }
+        #card-header{
+          text-align: left;
+          font-family: 'Yomogi', cursive;
+        }
+        .latest{
+          color:  rgb(255, 230, 0);
+        }
+        .card-body{
+          font-family: 'Comfortaa', cursive;
+        }
+        #book-image{
+          box-shadow: 5px 5px 5px rgb(190, 188, 188);
+       transition: transform .2s;
+
+     }
+     #book-image:hover{
+      transition: 0.5s ease;
+       opacity: 0.5;
+       cursor: pointer;
+       transform: scale(1.05);
+       border-radius: 8px;
+     }
+      #section-4{
+        background-image: url(https://images.unsplash.com/photo-1534536281715-e28d76689b4d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1950&q=80);
+        background-size: cover;
+        padding-bottom: 200px;
+      }
+      @media (max-width: 650px) {
+        #section-4 {
+          background-image: url(https://images.pexels.com/photos/3651577/pexels-photo-3651577.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260);
+         
+        }
+        }
+      #form-head{
+        color: white;
+        font-family: 'Otomanopee One', sans-serif;
+      }
+     
+      input[type="text"],
+      input[type="email"],
+      input[type="number"],
+     select,
+      textarea{
+          font-size: 15px;
+          font-family: 'Comfortaa', cursive;
+          background-color: rgb(255, 255, 255,0.7);
+          border: none;
+          border-radius: 5px;
+          
+
+      }
+      #Phone_number{
+        width: 183px;
+      }
+      @media (max-width: 650px) {
+        .phone {
+          width: 80px;
+        }
+        }
+        input[type="submit"]{
+          background-color: rgb(252, 227, 8);
+          color: white;
+          
+          border: none;
+          border-radius: 4px;
+          cursor: pointer;
+          width: 170px;
+      }
+      input[type="submit"]:hover{
+          background-color:rgb(244, 248, 6) ;
+          box-shadow: 0 0px 50px rgb(248, 244, 4) ;
+      }
+     #image-1{
+       background-image: url(footer.jpeg);
+       background-size: cover;
+       padding-top: 120px;
+       padding-bottom: 30px;
+       font-family: 'Comfortaa', cursive;
+     }
+     #copyright{
+       margin-top: 00px;
+       text-decoration: none;
+       color: black;
+     }
+
+
+    </style>
+  </head>
+  <body>
+
+
+    <header>
+
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <div class="container-fluid">
+              <a class="navbar-brand" href="#">THE SALSA JOURNAL</a>
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarNav">
+                <div class="me-auto"></div>
+                <ul class="navbar-nav">
+                  <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#">Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#section-2">About me</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#section-3">Articles</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#section-4">Contact me</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </nav>
+
+
+         <div class="container-fluid bg-light" id="header">
+            <div class="row align-items-center mx-auto" style="width: 300px;">
+                
+                <div class="col-md-12 col-sm-12" >
+                    <h1 class="text-center" id="ciao-head"><span class="ciao">A</span>LOH<span class="ciao">A</span></h1>
+                    
+                </div>
+               
+         </div>
+         <div class="row">
+           <div class="col-md-12 col-sm-12 align-items-center mx-auto" style="width: 50%;">
+            <hr size="5"> 
+           </div>
+         </div>
+
+
+         <div class="row align-items-center text-center mx-auto">
+             <div class="col-md-12 col-sm-12">
+                <h3 class="fs-4" id="introduction"> I'm <span class="fw-bold">Saloni Dwivedi</span></h3>
+                <h3 class="fs-4" id="introduction">Just here to create and post some random stuff.</h3>
+            </div>
+        </div>
+
+        <div class="row align-items-center text-center mx-auto" style="width: 200px;">
+            <div class="col-md-12 col-sm-12" id="icons">
+                <a href="https://www.instagram.com/theelatedmeson/"class="fab fa-instagram me-3 text-decoration-none text-reset fs-5" target="_blank"></a>
+                <a href="https://in.pinterest.com/salonidwivedi09/" class="fab fa-pinterest me-3 text-decoration-none text-reset fs-5" target="_blank"></a>
+                <a href="https://www.linkedin.com/in/saloni-dwivedi-b62262206/" class="fab fa-linkedin me-3 text-decoration-none text-reset fs-5" target="_blank"></a>
+                
+            </div>
+           
+        </div>
+    </header>
+
+
+    <div class="container-fluid" id="section-2">
+        <div class="row">
+            <div class="col-md-9 col-sm-12">
+                <p class="text fw-bold lh-1" id="section-2-welcome">Welcome.</p>
+                <p class="text fw-bold lh-1" id="section-2-to">To The</p>
+                <p class="text lh-1" id="section-2-salsa">Salsa Journal</p>
+            </div>
+        </div>
+        <div class="row">
+          <div class="col-md-6 col-sm-0"></div>
+          <div class="col-md-6 col-sm-12 intro align-items-center text-center">
+            <i class="fas fa-quote-left"></i>
+            <p id="intro">I write somedays. Somedays, I code too. Otherwise I'm a messy person who is just entangled in between AUX cables, headsets, some random food stuffs around and laptop screens. My day goes by staring at the not-so-good-looking screen, my nights often have a share of the sky outside my window. Here I am, to share my part of the story which may carry a glimpse of the chaos going on in my head.</p>
+          </div>
+        </div>
+      </div>
+
+
+      <div class="container-fluid bg-light" id="section-3">
+       <div class="row">
+         <div class="col-md-12 col-sm-12 align-items-center text-center">
+          <div class="card w-75 m-5" id="card">
+            <div class="card-header fs-2 fw-bold" id="card-header">
+              L<span class="latest">a</span>test <span class="latest">a</span>rticle:
+            </div>
+            <div class="row card-body">
+              <div class="col-md-8 align-items-center">
+                <blockquote class="blockquote mb-0">
+                  <p id="card-text">For the time being, I'm a circumstantial undergraduate engineering student. I read. I keep reading stuffs. Sharing here some random thoughts on John Green's 'The fault in our Stars'. Give it a try...</p>
+                  <footer class="blockquote-footer"> <cite title="Source Title"><a href="article.html" class=" text-decoration-none">Read Maybe?</a></cite></footer>
+                </blockquote>
+              </div>
+              <div class="col-md-4 align-items-center">
+                <a href="article.html">
+                  <img src="book.jpg" alt="" class="w-50" id="book-image">
+                </a>
+               
+              </div>
+              
+            </div>
+          </div>
+         </div>
+       </div>
+      </div>
+
+
+
+      <!--Contact-Us-Form-->
+
+     <form action="https://formspree.io/f/mpzkjljg" method="POST">
+      <div class="container-fluid" id="section-4">
+        <div class="row">
+          <div class="col text-center">
+            <p><h1 id="form-head">Would love to he<span class="latest">a</span>r from you</h1></p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-6 col-sm-12">
+            <div class="credentials">
+              <p id="form-input-boxes">
+                <input type="text" class="w-50 mt-5 ms-5 p-2" name="name" placeholder="Name" required>
+              </p>
+               
+           
+              <p id="form-input-boxes">
+                <input type="email" class="w-50 ms-5 p-2" name="email" id="email" placeholder="Email" required>
+              </p>
+             
+            <!--div class="row w-50">
+              <div class="col-md-6 col-sm-12">
+                <p id="form-input-boxes">
+                  <select class="ms-5 p-2" name="Country_code" id="country_code" required>
+                      <option value="">--Country code--</option>
+                      <option value="Master Card">+91(India)</option>
+                      <option value="Visa">+1(US)</option>
+                      <option value="SBI Pay">+123 (Xyz country)</option>
+                    </select>
+                </p>   
+              </div>
+              <div class="col-md-6 col-sm-12">
+                <p>
+                  <input type="Number" class="phone ms-5 p-2" name="Phone Number" id="Phone_number" placeholder="Phone number" required>
+                </p>
+              </div>
+            </div-->
+             
+              
+                  
+               <p id="form-input-boxes">
+                  <textarea name="Message" class="w-50 ms-5 p-2" id="Message" cols="30" rows="10" placeholder="Your message..." maxlength="1000"></textarea>
+              </p>
+               <p id="form-input-boxes">
+                 <input type="submit" class="ms-5 p-2" value="Message">
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+     </form> 
+      
+
+
+
+      <footer>
+        <div class="container-fluid bg-light" id="image-1">
+         <div class="row align-items-center text-center mx-auto" style="width: 300px;">
+           <div class="col text-center">
+             
+             <p class="fs-5 fw-bold">Connect</p>
+           </div>
+         </div>
+         <div class="row align-items-center text-center mx-auto" style="width: 300px;">
+          <div class="col-md-12 col-sm-12 text-center" id="icons">
+              <a href="https://www.instagram.com/theelatedmeson/"class="fab fa-instagram me-3 ms-3 text-decoration-none text-reset fs-5" target="_blank"></a>
+              <a href="https://in.pinterest.com/salonidwivedi09/" class="fab fa-pinterest me-3 text-decoration-none text-reset fs-5" target="_blank"></a>
+              <a href="https://www.linkedin.com/in/saloni-dwivedi-b62262206/" class="fab fa-linkedin me-3 text-decoration-none text-reset fs-5" target="_blank"></a>
+              
+          </div>
+        </div>
+       
+        <div class="row align-items-center text-center mx-auto" id="copyright">
+          <a href="#" id="copyright">&copy; 2021 | Saloni Dwivedi</a>
+        </div>
+        </div>
+      </footer>
+      
+
+    <!-- Optional JavaScript; choose one of the two! -->
+
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
+    <!-- Option 2: Separate Popper and Bootstrap JS -->
+    <!--
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
+    -->
+  </body>
+</html>

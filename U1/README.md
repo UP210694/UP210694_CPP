@@ -28,7 +28,7 @@ UP210694_CPP
 
  Para observar el codigo: 
 
-[Click here](https://github.com/UP210043/UP210043_CPP/blob/main/U1/02_ParImpar.cpp)  
+[Click here](https://github.com/UP210694/UP210694_CPP/blob/main/U1/02_ParImpar.cpp)  
 
 <br>
 <h2>03_TiposDatos.cpp </h2>
@@ -36,7 +36,7 @@ UP210694_CPP
 <hr>  
 
  Para observar el codigo:  
-[Click here](https://github.com/UP210043/UP210043_CPP/blob/main/U1/03_TiposdeDatos.cpp)   
+[Click here](https://github.com/UP210694/UP210694_CPP/blob/main/U1/03_TiposdeDatos.cpp)   
 
 <br>
 <h2>04_Ciclo.cpp</h2>
@@ -44,7 +44,7 @@ UP210694_CPP
 <hr>   
  
 Para observar el codigo:  
-[Click here](https://github.com/UP210043/UP210043_CPP/blob/main/U1/04_Ciclos.cpp)    
+[Click here](https://github.com/UP210694/UP210694_CPP/blob/main/U1/04_Ciclos.cpp)    
 
 <br>
 <h2>05_Edades.cpp</h2>
@@ -52,4 +52,4 @@ Para observar el codigo:
 <hr>
 
 Para observar el codigo:  
-[Edades code](https://github.com/UP210043/UP210043_CPP/blob/main/U1/05_edades.cpp)  
+[Click here](https://github.com/UP210694/UP210694_CPP/blob/main/U1/05_edades.cpp)  
