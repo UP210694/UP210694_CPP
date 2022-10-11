@@ -37,11 +37,11 @@ ISC03A
  ## __U1__
  > [Visualizar Unidad 1](https://github.com/UP210694/UP210694_CPP/tree/main/U1)
 <e1>
-<li>01_Hola</li>
-<li>02_Par Impar</li> 
-<li>03_Tipos de datos</li>
-<li>04_Ciclos</li>
-<li>05_Edades</li> 
+<li>01_Hola.cpp</li>
+<li>02_ImparPar.cpp</li> 
+<li>03_TiposDatos.cpp</li>
+<li>04_Ciclo.cpp</li>
+<li>05_Edades.cpp</li> 
 </e>
 
  ## __U1__ 
@@ -54,11 +54,11 @@ ISC03A
 <li>05_Temperaturas</li> 
 <li>05_Compras</li> 
 <li>06_BinDec</li> 
-</e>
-
+</e>  
+<br>
 
 Para clonar este repositorio, escriba este comando en su consola:
->       git clone https://github.com/UP210694/UP210694_CPP.git
+>       git clone https://github.com/UP210694/UP210694_CPP.git    
 
 Puede revisar algunos increíbles README.md aquí: 
 > [Visualizar Readme](https://github.com/matiassingers/awesome-readme)  
