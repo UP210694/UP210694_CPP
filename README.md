@@ -6,33 +6,39 @@
 
 <h1 style="color:Navy"><b> Universidad Polítecnica de Aguascalientes </b></h1>
 </center>
-
-<br>Computer Systems Engineering 3° A
-</div>
 <div align ="center">
-<img src="/.vscode/log.gif"/>
+<img src="https://upa.edu.mx/wp-content/uploads/2021/02/Logo_UPA-1024x617.jpg" alt="UPA" width="270" height="190"
+/>
 </div>
 <br>
 <hr>
 
-<center>
-  
-<a title="Información sobre la UPA" href="https://upa.edu.mx/"><img src="https://upa.edu.mx/wp-content/uploads/2021/02/Logo_UPA-1024x617.jpg" alt="UPA" width="270" height="190"/></a>
-</center>
+<br>Computer Systems Engineering 3° A
+</div>
+<div align ="center">
+<img src="/.vscode/giphy.gif"/>
+</div>
+<br>
+<hr>
 
+
+<h4>This Readme, works and/or projects were carried out by:</h4> 
 
 ## María Belén Salazar Delgado 
 
 UP219694   
 ISC03A  
 
-<center> <p style="font-family:Castellar;" color= "#EE253D"><b>Más sobre Belén Delgado<b></p> </center>
+<center> <p style="font-family:Castellar;" color= "#EE253D"><b>More about "Belen Delgado" :<b></p> </center>
 
 
-| Cutri Cursando | Salon en que la puedes encontrar | Estado Civil | 
+| cursando| social networks| Estado Civil | 
 | -------------- | -------------------------------- | ------------ |
-| Tercer Cuatri  | <center> #304</center>           | Soltera :)  |
-
+| computer systems engineer | <center> #304</center>           | Soltera :)  |
+  
+# 
+### Social Network
+:camera: Instagram: https://www.instagram.com/lenn_dels/  
 
 <br>
 
