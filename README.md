@@ -30,6 +30,12 @@ UP219694
 ISC03A  
 
 <center> <p style="font-family:Castellar;" color= "#EE253D"><b>More about "Belen Delgado" :<b></p> </center>
+<div align ="center">
+<img src="UP210694_CPP/niñ.jpg" alt="UPA" width="270" height="190"
+/>
+</div>
+<br>
+<hr>
 
 
 | cursando| social networks| Estado Civil | 
