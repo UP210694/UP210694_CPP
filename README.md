@@ -35,19 +35,20 @@ ISC03A
 <img src="/.vscode/niñ.jpg" width="270" height="190"/>
 </div>
 <br>
-<hr>
+
 
 
 | cursando| Salon| Estado Civil | 
 | -------------- | -------------------------------- | ------------ |
 | computer systems engineer | <center> #304</center>           | Single :)  |
   
-# 
+
 ### Social Network
 :camera: Instagram: https://www.instagram.com/lenn_dels/  
 
 <br>
-
+<hr>
+<hr>
 
 <marquee behavior="scroll" bgcolor="#F9A6A6" direction="down" height="60" scrollamount="2"><center><font face=adler color="#000000" size=5><b> Unidades y Ejercicios en C++ </font> </center>
 </marquee> 
@@ -55,9 +56,6 @@ ISC03A
 <img src="/.vscode/log.gif" width="370" height="190"/>
 </div>
 <br>
-<hr>
-<hr>
-
 
  ## __📁U1__
  > [🔎 View Unit 1](https://github.com/UP210694/UP210694_CPP/tree/main/U1)
@@ -102,6 +100,8 @@ The content of this unit is:
 </div>
 <br>
 <hr>
+<hr>
+<hr>  
 
 To clone this repository, type this command in your console:
 >       git clone https://github.com/UP210694/UP210694_CPP.git    
