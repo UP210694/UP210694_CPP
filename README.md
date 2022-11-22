@@ -13,7 +13,8 @@
 <br>
 <hr>
 
-<br>Computer Systems Engineering 3° A
+<br>Computer Systems Engineering 3° A  
+💻
 </div>
 <div align ="center">
 <img src="/.vscode/giphy.gif"/>
@@ -24,7 +25,7 @@
 
 <h4>This Readme, works and/or projects were carried out by:</h4> 
 
-## María Belén Salazar Delgado 
+## ❀María Belén Salazar Delgado❀ 
 
 UP219694   
 ISC03A  
@@ -53,18 +54,18 @@ ISC03A
 <hr>
 
 
- ## __U1__
- > :lupa: [View Unit 1](https://github.com/UP210694/UP210694_CPP/tree/main/U1)
+ ## __📁U1__
+ > [🔎 View Unit 1](https://github.com/UP210694/UP210694_CPP/tree/main/U1)
 <e1>
-<li>01_Hola.cpp</li>
+<li> :custom: 01_Hola.cpp</li>
 <li>02_ImparPar.cpp</li> 
 <li>03_TiposDatos.cpp</li>
 <li>04_Ciclo.cpp</li>
 <li>05_Edades.cpp</li> 
 </e>
 
- ## __U1__ 
- > [View Unit 2](https://github.com/UP210694/UP210694_CPP/tree/main/U2)
+ ## __📁U2__ 
+ > [🔎 View Unit 2](https://github.com/UP210694/UP210694_CPP/tree/main/U2)
 <e1>
 <li>01_Rentas</li>
 <li>02_Rendimiento</li> 
@@ -74,10 +75,10 @@ ISC03A
 <li>05_Compras</li> 
 <li>06_BinDec</li> 
 </e>  
-
-## __U3 Functions__
+  
+## __📁U3 Functions__
 The content of this unit is:
- > [View Unit 3](https://github.com/UP210694/UP210694_CPP/tree/main/U3)
+ > [🔎 View Unit 3](https://github.com/UP210694/UP210694_CPP/tree/main/U3)
 <e1>
 <li>01_Biseccion.cpp</li>
 <li>02_ABisiesto.cpp</li> 
@@ -91,10 +92,16 @@ The content of this unit is:
 </e> 
 <br>
 
-Para clonar este repositorio, escriba este comando en su consola:
+<div align ="center">
+<img src="/.vscode/war.gif" width="270" height="190"/>
+</div>
+<br>
+<hr>
+
+To clone this repository, type this command in your console:
 >       git clone https://github.com/UP210694/UP210694_CPP.git    
 
-Puede revisar algunos increíbles README.md aquí: 
+You can check out some awesome README.md here: 
 > [Visualizar Readme](https://github.com/matiassingers/awesome-readme)  
 
 
