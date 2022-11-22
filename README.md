@@ -51,6 +51,11 @@ ISC03A
 
 <marquee behavior="scroll" bgcolor="#F9A6A6" direction="down" height="60" scrollamount="2"><center><font face=adler color="#000000" size=5><b> Unidades y Ejercicios en C++ </font> </center>
 </marquee> 
+<div align ="center">
+<img src="/.vscode/log.gif" width="370" height="190"/>
+</div>
+<br>
+<hr>
 <hr>
 
 
@@ -93,7 +98,7 @@ The content of this unit is:
 <br>
 
 <div align ="center">
-<img src="/.vscode/war.gif" width="270" height="190"/>
+<img src="/.vscode/war.gif" width="370" height="190"/>
 </div>
 <br>
 <hr>
