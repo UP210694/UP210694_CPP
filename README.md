@@ -37,9 +37,9 @@ ISC03A
 <hr>
 
 
-| cursando| social networks| Estado Civil | 
+| cursando| Salon| Estado Civil | 
 | -------------- | -------------------------------- | ------------ |
-| computer systems engineer | <center> #304</center>           | Soltera :)  |
+| computer systems engineer | <center> #304</center>           | Single :)  |
   
 # 
 ### Social Network
@@ -54,7 +54,7 @@ ISC03A
 
 
  ## __U1__
- > [View Unit 1](https://github.com/UP210694/UP210694_CPP/tree/main/U1)
+ > :lupa: [View Unit 1](https://github.com/UP210694/UP210694_CPP/tree/main/U1)
 <e1>
 <li>01_Hola.cpp</li>
 <li>02_ImparPar.cpp</li> 
