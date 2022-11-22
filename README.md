@@ -35,7 +35,7 @@ ISC03A
 
 
  ## __U1__
- > [Visualizar Unidad 1](https://github.com/UP210694/UP210694_CPP/tree/main/U1)
+ > [View Unit 1](https://github.com/UP210694/UP210694_CPP/tree/main/U1)
 <e1>
 <li>01_Hola.cpp</li>
 <li>02_ImparPar.cpp</li> 
@@ -45,7 +45,7 @@ ISC03A
 </e>
 
  ## __U1__ 
- > [Visualizar Unidad 2](https://github.com/UP210694/UP210694_CPP/tree/main/U2)
+ > [View Unit 2](https://github.com/UP210694/UP210694_CPP/tree/main/U2)
 <e1>
 <li>01_Rentas</li>
 <li>02_Rendimiento</li> 
@@ -58,7 +58,7 @@ ISC03A
 
 ## __U3 Functions__
 The content of this unit is:
- > [Visualizar Unidad 1](https://github.com/UP210694/UP210694_CPP/tree/main/U3)
+ > [View Unit 3](https://github.com/UP210694/UP210694_CPP/tree/main/U3)
 <e1>
 <li>01_Biseccion.cpp</li>
 <li>02_ABisiesto.cpp</li> 
