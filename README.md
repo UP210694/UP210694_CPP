@@ -1,15 +1,23 @@
 
-  <marquee behavior="scroll" direction="left" height="60" scrollamount="5">¡Hola!, Bienvenido a mi Git Hub. Desarrollado especialmente para la materia de: Programación. </marquee>  
-<hr>
+  <marquee behavior="scroll" direction="left" height="60" scrollamount="5">¡Hello!, welcome to my Github. Developed especially for the subject of: Programming. </marquee>  
+  <div align ="center">
 
 <center> <p style="font-family:Castellar;">UP210694_CPP</p>
 
 <h1 style="color:Navy"><b> Universidad Polítecnica de Aguascalientes </b></h1>
 </center>
 
+<br>Computer Systems Engineering 3° A
+</div>
+<div align ="center">
+<img src="/.vscode/log.gif"/>
+</div>
+<br>
+<hr>
+
 <center>
   
-<a title="Información sobre la UPA" href="https://upa.edu.mx/"><img src="https://upa.edu.mx/wp-content/uploads/2021/02/Logo_UPA-1024x617.jpg" alt="UPA" /></a>
+<a title="Información sobre la UPA" href="https://upa.edu.mx/"><img src="https://upa.edu.mx/wp-content/uploads/2021/02/Logo_UPA-1024x617.jpg" alt="UPA" width="270" height="190"/></a>
 </center>
 
 
