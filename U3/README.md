@@ -17,67 +17,81 @@ UP210694_CPP
 </e>
   
  <br> 
-<h2><b>01_abc.cpp </b></h2>
+<h2><b>01_Biseccion.cpp </b></h2>
 
 <hr>
 
- Para observar el codigo:  
+ More about this code: 
 
-[Click here](https://github.com/UP210694/UP210694_CPP/blob/main/U2/01_abc.cpp)   
+[click here to see the code](https://github.com/UP210694/UP210694_CPP/blob/main/U3/01_Biseccion.cpp)   
+
+<center>
+<img src="/U3/Bisec.PNG" alt="Stickman" width="24" height="39">
+</center>
 
 <br>
-<h2>02_CicloWhile.cpp </h2>
+<h2>02_ABisiesto.cpp </h2>
 
 <hr>
 
- Para observar el codigo: 
+ More about this code:
 
-[Click here](https://github.com/UP210694/UP210694_CPP/blob/main/U2/02_CicloWhile.cpp)  
+[click here to see the code](https://github.com/UP210694/UP210694_CPP/blob/main/U3/02_ABisiesto.cpp.cpp)  
 
 <br>
-<h2>03_Tabla.cpp </h2>
+<h2>03_Cosenos.cpp</h2>
 
 <hr>  
 
- Para observar el codigo:  
-[Click here](https://github.com/UP210694/UP210694_CPP/blob/main/U2/03_Tabla.cpp)   
+ More about this code: 
+[click here to see the code](https://github.com/UP210694/UP210694_CPP/blob/main/U3/03_Cosenos.cpp)   
 
 <br>
-<h2>04_ForFor.cpp</h2>
+<h2>04_DesEstan.cpp</h2>
 
 <hr>   
  
-Para observar el codigo:  
-[Click here](https://github.com/UP210694/UP210694_CPP/blob/main/U2/04_ForFor.cpp)    
+More about this code:  
+[click here to see the code](https://github.com/UP210694/UP210694_CPP/blob/main/U3/04_DesEstan.cpp)    
 
 <br>
-<h2>05_Edades.cpp</h2>
+<h2>05_Desgloce.cpp</h2>
 
 <hr>
 
-Para observar el codigo:  
-[Click here](https://github.com/UP210694/UP210694_CPP/blob/main/U1/05_edades.cpp) 
+PMore about this code:  
+[click here to see the code](https://github.com/UP210694/UP210694_CPP/blob/main/U3/05_Desgloce.cpp) 
 
 <br>
-<h2>06_Juegos.cpp</h2>
+<h2>06_ConvAR.cpp</h2>
 
 <hr>
 
-Para observar el codigo:  
-[Edades code](https://github.com/UP210694/UP210694_CPP/blob/main/U2/06_Juegos.cpp)  
+More about this code:  
+[click here to see the code](https://github.com/UP210694/UP210694_CPP/blob/main/U3/06_ConvAR.cpp)  
 
 <br>
-<h2>07_Pizza.cpp</h2>
+<h2>07_RFC.cpp</h2>
 
 <hr>
 
-Para observar el codigo:  
-[Edades code](https://github.com/UP210694/UP210694_CPP/blob/main/U2/07_Pizza.cpp) 
+More about this code: 
+[click here to see the code](https://github.com/UP210694/UP210694_CPP/blob/main/U3/07_RFC.cpp) 
+
+<br>
+<h2>08_Vector.cpp</h2>
+<hr>
+
+More about this code:  
+[click here to see the code](https://github.com/UP210694/UP210694_CPP/blob/main/U3/08_Vector.cpp) 
+
+<br>
+<h2>09_FR.cpp</h2>
+
+<hr>
+
+More about this code: 
+[click here to see the code](https://github.com/UP210694/UP210694_CPP/blob/main/U3/09_FR.cpp) 
 
 <br>
 <h2>Binario.cpp</h2>
-
-<hr>
-
-Para observar el codigo:  
-[Edades code](https://github.com/UP210694/UP210694_CPP/blob/main/U2/Binario.cpp) 
