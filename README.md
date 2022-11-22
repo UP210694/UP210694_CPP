@@ -55,6 +55,21 @@ ISC03A
 <li>05_Compras</li> 
 <li>06_BinDec</li> 
 </e>  
+
+## __U3 Functions__
+The content of this unit is:
+ > [Visualizar Unidad 1](https://github.com/UP210694/UP210694_CPP/tree/main/U3)
+<e1>
+<li>01_Biseccion.cpp</li>
+<li>02_ABisiesto.cpp</li> 
+<li>03_Cosenos.cpp</li>
+<li>04_DesEstan.cpp</li>
+<li>05_Desgloce.cpp</li> 
+<li>06_ConvAR.cpp</li>
+<li>07_RFC.cpp</li>
+<li>08_Vector.cpp</li>
+<li>09_FR.cpp</li>
+</e> 
 <br>
 
 Para clonar este repositorio, escriba este comando en su consola:
