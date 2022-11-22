@@ -24,9 +24,9 @@ UP210694_CPP
  More about this code: 
 
 [click here to see the code](https://github.com/UP210694/UP210694_CPP/blob/main/U3/01_Biseccion.cpp)   
-
+__Visualization of compiled code__
 <center>
-<img src="/U3/Bisec.PNG" alt="Stickman" width="24" height="39">
+<img src="/U3/Bisec.PNG" alt="Stickman" width="350" height="390">
 </center>
 
 <br>
