@@ -50,7 +50,7 @@ ISC03A
 <hr>
 <hr>
 
-<marquee behavior="scroll" bgcolor="#F9A6A6" direction="down" height="60" scrollamount="2"><center><font face=adler color="#000000" size=5><b> Unidades y Ejercicios en C++ </font> </center>
+<marquee behavior="scroll" bgcolor="#F9A6A6" direction="down" height="60" scrollamount="2"><center><font face=adler color="#000000" size=5><b> Units and Exercises in C++ </font> </center>
 </marquee> 
 <div align ="center">
 <img src="/.vscode/log.gif" width="370" height="190"/>
