@@ -81,7 +81,7 @@ ISC03A
   
 ## __📁U3 Functions__
 The content of this unit is:
- > [🔎 View Unit 3](https://github.com/UP210694/UP210694_CPP/tree/main/U3)
+ > [🔎 View Unit 3](https://github.com/UP210694/UP210694_CPP/tree/main/U3#readme)
 <e1>
 <li>01_Biseccion.cpp</li>
 <li>02_ABisiesto.cpp</li> 
