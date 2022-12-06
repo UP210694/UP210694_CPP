@@ -379,8 +379,7 @@ void print(string t){
 
 __Visualization of compiled code__
 <center>
-<img src="/U3/noBi.PNG" alt="Stickman" width="350" height="390">
-<img src="/U3/siBi.PNG" alt="Stickman" width="350" height="390">
+<img src="/U3/conver.PNG" alt="Stickman" width="150" height="290">
 </center>
 
 
